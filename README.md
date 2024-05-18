@@ -12,9 +12,7 @@ This project is a web application that converts YouTube video links into summari
 - [Evaluations](#evaluations)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
+  
 ## Introduction
 
 The YouTube Transcript Summarizer simplifies the process of extracting key information from YouTube videos by generating brief and coherent summaries of their transcripts. This tool is especially useful for users who need to quickly understand the content of lengthy videos without watching them in full.
