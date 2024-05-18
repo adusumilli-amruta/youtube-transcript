@@ -60,7 +60,7 @@ The YouTube Transcript Summarizer simplifies the process of extracting key infor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/youtube-transcript-summarizer.git
+   git clone https://github.com/adusumilli-amruta/youtube-transcript.git
    cd youtube-transcript-summarizer
    ```
 
