@@ -12,7 +12,8 @@ This project is a web application that converts YouTube video links into summari
 - [Evaluations](#evaluations)
 - [Installation](#installation)
 - [Usage](#usage)
-  
+- [Future Research and Upgrades](#future-research-and-upgrades)
+
 ## Introduction
 
 The YouTube Transcript Summarizer simplifies the process of extracting key information from YouTube videos by generating brief and coherent summaries of their transcripts. This tool is especially useful for users who need to quickly understand the content of lengthy videos without watching them in full.
@@ -59,7 +60,7 @@ The YouTube Transcript Summarizer simplifies the process of extracting key infor
 1. Clone the repository:
    ```bash
    git clone https://github.com/adusumilli-amruta/youtube-transcript.git
-   cd youtube-transcript-summarizer
+   cd youtube-transcript
    ```
 
 2. Install dependencies:
@@ -84,3 +85,12 @@ The YouTube Transcript Summarizer simplifies the process of extracting key infor
 2. Enter a YouTube video link in the input field.
 
 3. Click the "Summarize" button to generate and view the summary of the video transcript.
+
+## Future Research and Upgrades
+
+1. **Enhanced Summarization Models**: Researching and integrating more advanced summarization models to improve summary quality.
+2. **Multi-Language Support**: Expanding the tool to support summarization in multiple languages, making it more accessible to a global audience.
+3. **Customizable Summaries**: Allowing users to customize the length and detail level of the summaries.
+4. **Real-Time Processing**: Implementing real-time transcript summarization as the video plays.
+5. **User Profiles and Saved Summaries**: Enabling user accounts where summaries can be saved and accessed later.
+6. **Integration with Other Platforms**: Extending support to other video platforms beyond YouTube.
